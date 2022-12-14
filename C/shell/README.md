@@ -4,7 +4,9 @@
 
 Usage:
 To build the binary:
-> make
+'''
+make
+'''
 
 Example:
 !(image)[example.png]

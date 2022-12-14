@@ -10,4 +10,4 @@ make
 ```
 
 Example:
-[image](example.png)
+![image](example.png)
